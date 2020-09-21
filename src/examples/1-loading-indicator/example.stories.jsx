@@ -4,7 +4,7 @@ import { useMachine } from "@xstate/react";
 import { LoadingText } from "components/LoadingText";
 
 export default {
-  title: "Loading Indicator/Lesson 1",
+  title: "Loading Indicator/Example 1",
 };
 
 const machine = createMachine({
